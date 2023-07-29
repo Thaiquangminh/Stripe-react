@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5b8c070-d02b-4279-9c51-27154c69d557" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/feature-collection/FeaturedCollection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/footer/footer.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/FeaturedProduct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/MainLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/feature-product.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/ProductContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/cart/CartItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/cart/CartPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/cart/cart-page.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/checkout/Checkout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/checkout/checkout.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/checkout/stripe-checkout/Canceled.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/checkout/stripe-checkout/StripeCheckout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/checkout/stripe-checkout/Success.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/product-detail/ProductDetail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/product-detail/product-detail.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store/slice/cartSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T6Dpr99Pp078V0KxcftQnZ846K" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5b8c070-d02b-4279-9c51-27154c69d557" name="Changes" comment="" />
+      <created>1690354822685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690354822685</updated>
+      <workItem from="1690354823983" duration="1675000" />
+      <workItem from="1690466891665" duration="6461000" />
+      <workItem from="1690508103419" duration="5693000" />
+      <workItem from="1690514753487" duration="19392000" />
+      <workItem from="1690615266765" duration="18334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
